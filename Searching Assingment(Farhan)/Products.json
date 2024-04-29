@@ -1,0 +1,75 @@
+[
+    {
+        
+        "image":"products/img001.jpg.png",
+        "title": "Cartier",
+        "description": "cartier First Watch Men",
+        "price": "8,900"
+        
+    },
+    {
+        
+        "image":"products/img002.jpg",
+        "title": "Cartier",
+        "description": "Visual works, such as paintings, posters, and advertisements",
+        "price": "15,000"
+        
+    },
+    {
+    
+        
+        "image":"products/img003.jpg.png",
+        "title": "Cartier",
+        "description": "Good Analog Work for men",
+        "price": "11,000"
+        
+    },
+    {
+        
+        "image":"products/img004.jpg",
+        "title": "G.Shock",
+        "description": "Fitbit Versa 4 Fitness Watch",
+        "price": "9,500"
+        
+    },
+    {
+        
+        "image":"products/png005.png",
+        "title": "G.Shock",
+        "description": " AI-Designed G-Shock Could Become the Most Expensive Casio Ever Sold GQ",
+        "price": "248,000"
+       
+    },
+    {
+        
+        "image":"products/img005.jpg",
+        "title": "G.Shock",
+        "description": "TOUGH SOLAR, SPECIFICATIONS, Case / bezel materia",
+        "price": "18,000"
+        
+    },
+    {
+        
+        "image":"products/img006.jpg",
+        "title": "Rado",
+        "description": "A Crazy Looking Watch With A Few Tricks Up Its Sleeve - Rado Diastar Original",
+        "price": "9,400"
+       
+    },
+    {
+        
+        "image":"products/img006.png",
+        "title": "Rado",
+        "description": "Rado Centrix Automatic Open Heart",
+        "price": "8,000"
+        
+    },
+    {
+        
+        "image":"products/img007.jpg",
+        "title": "Rolex",
+        "description": "Montre unisexe automatique Rado Anatom ST acier classé cadran vert-noir",
+        "price": "11,000"
+       
+    }
+]
